@@ -1,6 +1,6 @@
 # ORASP Instance Generator
 
-This repository contains a Python script to generate benchmark instances for the **Operating Room Assignment and Surgical Planning (ORASP)** problem.
+This repository contains a Python script to generate benchmark instances for the **Operating Room Allocation Scheduling Problem (ORASP)** .
 
 The instances reflect realistic hospital constraints such as surgeon schedules, room compatibility, operation durations, and inter-operation setup times.
 
